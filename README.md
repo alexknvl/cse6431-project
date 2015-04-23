@@ -17,5 +17,16 @@ This is a class containing the actual logic. It spawns threads for cooks (`cookP
 ## Main & Config
 The `Config` class is a very simple configuration file parser. `Main` assumes that the program is run with one argument, a path to its configuration file.
 
+## Output format
+```
+Diner#0 was seated at the table#4 at 20
+Cook#0 started cooking for diner#0 at 20
+Cook#0 started cooking food#1 for diner#0 at 20
+Cook#0 finished cooking food#1 for diner#0 at 23
+Cook#0 started cooking food#2 for diner#1 at 30
+Diner#0 started eating at 33
+Diner#0 left at 63
+```
+
 ## Disclaimer
 I looked up how to subvert checked exceptions in Java on the internet (@see `Unchecked` class). This was not in any way related to the problem at hand and probably not a good coding style, but checked exceptions are too annoying in my personal opinion.
