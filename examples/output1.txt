@@ -1,0 +1,120 @@
+Diner#0 was seated at the table#4 at 20
+Cook#0 started cooking for diner#0 at 20
+Cook#0 started cooking food#1 for diner#0 at 20
+Cook#0 finished cooking food#1 for diner#0 at 23
+Cook#0 started cooking food#0 for diner#0 at 23
+Cook#0 finished cooking food#0 for diner#0 at 28
+Cook#0 started cooking food#0 for diner#0 at 28
+Diner#1 was seated at the table#3 at 30
+Cook#1 started cooking for diner#1 at 30
+Cook#1 started cooking food#2 for diner#1 at 30
+Diner#2 was seated at the table#2 at 31
+Cook#1 finished cooking food#2 for diner#1 at 31
+Diner#3 was seated at the table#1 at 32
+Cook#0 finished cooking food#0 for diner#0 at 33
+Cook#0 finished cooking for diner#0 at 33
+Cook#0 started cooking for diner#2 at 33
+Cook#0 started cooking food#1 for diner#2 at 33
+Cook#1 started cooking food#0 for diner#1 at 33
+Diner#0 started eating at 33
+Cook#0 finished cooking food#1 for diner#2 at 36
+Cook#1 finished cooking food#0 for diner#1 at 38
+Cook#1 started cooking food#0 for diner#1 at 38
+Cook#1 finished cooking food#0 for diner#1 at 43
+Cook#1 started cooking food#0 for diner#1 at 43
+Cook#1 finished cooking food#0 for diner#1 at 48
+Cook#1 started cooking food#0 for diner#1 at 48
+Cook#1 finished cooking food#0 for diner#1 at 53
+Cook#1 finished cooking for diner#1 at 53
+Cook#1 started cooking for diner#3 at 53
+Cook#1 started cooking food#1 for diner#3 at 53
+Cook#0 started cooking food#0 for diner#2 at 53
+Diner#1 started eating at 53
+Cook#1 finished cooking food#1 for diner#3 at 56
+Cook#0 finished cooking food#0 for diner#2 at 58
+Cook#0 started cooking food#0 for diner#2 at 58
+Diner#0 left at 63
+Cook#0 finished cooking food#0 for diner#2 at 63
+Cook#0 finished cooking for diner#2 at 63
+Diner#4 was seated at the table#1 at 63
+Cook#1 started cooking food#0 for diner#3 at 63
+Diner#2 started eating at 63
+Cook#0 started cooking for diner#4 at 63
+Cook#0 started cooking food#2 for diner#4 at 63
+Cook#0 finished cooking food#2 for diner#4 at 64
+Cook#1 finished cooking food#0 for diner#3 at 68
+Cook#1 started cooking food#0 for diner#3 at 68
+Cook#1 finished cooking food#0 for diner#3 at 73
+Cook#1 finished cooking for diner#3 at 73
+Cook#0 started cooking food#0 for diner#4 at 73
+Diner#3 started eating at 73
+Cook#0 finished cooking food#0 for diner#4 at 78
+Cook#0 started cooking food#0 for diner#4 at 78
+Diner#1 left at 83
+Cook#0 finished cooking food#0 for diner#4 at 83
+Cook#0 finished cooking for diner#4 at 83
+Diner#5 was seated at the table#1 at 83
+Diner#4 started eating at 83
+Cook#1 started cooking for diner#5 at 83
+Cook#1 started cooking food#1 for diner#5 at 83
+Cook#1 finished cooking food#1 for diner#5 at 86
+Cook#1 started cooking food#0 for diner#5 at 86
+Cook#1 finished cooking food#0 for diner#5 at 91
+Cook#1 started cooking food#0 for diner#5 at 91
+Diner#2 left at 93
+Diner#6 was seated at the table#1 at 93
+Cook#0 started cooking for diner#6 at 93
+Cook#0 started cooking food#2 for diner#6 at 93
+Cook#0 finished cooking food#2 for diner#6 at 94
+Cook#1 finished cooking food#0 for diner#5 at 96
+Cook#1 finished cooking for diner#5 at 96
+Cook#0 started cooking food#0 for diner#6 at 96
+Diner#5 started eating at 96
+Cook#0 finished cooking food#0 for diner#6 at 101
+Cook#0 started cooking food#0 for diner#6 at 101
+Diner#3 left at 103
+Diner#7 was seated at the table#1 at 103
+Cook#1 started cooking for diner#7 at 103
+Cook#1 started cooking food#1 for diner#7 at 103
+Cook#0 finished cooking food#0 for diner#6 at 106
+Cook#0 started cooking food#0 for diner#6 at 106
+Cook#1 finished cooking food#1 for diner#7 at 106
+Cook#0 finished cooking food#0 for diner#6 at 111
+Cook#0 started cooking food#0 for diner#6 at 111
+Diner#4 left at 113
+Diner#8 was seated at the table#1 at 113
+Cook#0 finished cooking food#0 for diner#6 at 116
+Cook#0 finished cooking for diner#6 at 116
+Cook#0 started cooking for diner#8 at 116
+Cook#0 started cooking food#1 for diner#8 at 116
+Cook#1 started cooking food#0 for diner#7 at 116
+Diner#6 started eating at 116
+Cook#0 finished cooking food#1 for diner#8 at 119
+Cook#0 started cooking food#1 for diner#8 at 119
+Cook#1 finished cooking food#0 for diner#7 at 121
+Cook#1 started cooking food#0 for diner#7 at 121
+Cook#0 finished cooking food#1 for diner#8 at 122
+Diner#5 left at 126
+Cook#1 finished cooking food#0 for diner#7 at 126
+Cook#1 finished cooking for diner#7 at 126
+Diner#9 was seated at the table#1 at 126
+Cook#0 started cooking food#0 for diner#8 at 126
+Diner#7 started eating at 126
+Cook#1 started cooking for diner#9 at 126
+Cook#1 started cooking food#2 for diner#9 at 126
+Cook#1 finished cooking food#2 for diner#9 at 127
+Cook#0 finished cooking food#0 for diner#8 at 131
+Cook#0 started cooking food#0 for diner#8 at 131
+Cook#0 finished cooking food#0 for diner#8 at 136
+Cook#0 finished cooking for diner#8 at 136
+Cook#1 started cooking food#0 for diner#9 at 136
+Diner#8 started eating at 136
+Cook#1 finished cooking food#0 for diner#9 at 141
+Cook#1 started cooking food#0 for diner#9 at 141
+Diner#6 left at 146
+Cook#1 finished cooking food#0 for diner#9 at 146
+Cook#1 finished cooking for diner#9 at 146
+Diner#9 started eating at 146
+Diner#7 left at 156
+Diner#8 left at 166
+Diner#9 left at 176
