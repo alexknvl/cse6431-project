@@ -1,3 +1,5 @@
+assemblyJarName in assembly := "cse6431rp.jar"
+
 name := "cse6431rp"
 
 organization := "com.alexknvl"
